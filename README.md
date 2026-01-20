@@ -1,19 +1,39 @@
-# React + Vite
+# 📚 Reading App
 
-## 🚀 Live Demo
-**Deployed Application:** https://reading-app201.netlify.app/
+A simple and user-friendly **Reading App website** built using **React**.  
+The app helps users manage their personal book collection and track reading progress.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 **Live Demo:** https://reading-app201.netlify.app/
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://rolldown.rs/guide/integrations/vite))
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- ➕ Add your own books
+- 📖 Mark books as **Completed** or **Not Completed**
+- 🔢 Counters for:
+  - Total books
+  - Completed books
+  - Not completed books
+- 🧭 Easy-to-use and clean interface
+- ⚡ Fast and responsive React application
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to get started.
+- **React.js**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS3**
+- **Netlify** (for deployment)
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/reading-app.git
